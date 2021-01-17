@@ -1,0 +1,9 @@
+.nav-link {
+  color: black !important;
+  font-weight: 700;
+  padding-left: 20px !important;
+}
+.navbar-brand img {
+  width: 291px;
+  height: 39px;
+}
